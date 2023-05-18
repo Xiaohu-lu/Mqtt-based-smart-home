@@ -1,0 +1,11 @@
+f103_moduel\mqttunsubscribeclient.o: ..\MQTTClient\mqtt\MQTTUnsubscribeClient.c
+f103_moduel\mqttunsubscribeclient.o: ..\MQTTClient\mqtt\MQTTPacket.h
+f103_moduel\mqttunsubscribeclient.o: ..\MQTTClient\mqtt\MQTTConnect.h
+f103_moduel\mqttunsubscribeclient.o: ..\MQTTClient\mqtt\MQTTPublish.h
+f103_moduel\mqttunsubscribeclient.o: ..\MQTTClient\mqtt\MQTTSubscribe.h
+f103_moduel\mqttunsubscribeclient.o: ..\MQTTClient\mqtt\MQTTUnsubscribe.h
+f103_moduel\mqttunsubscribeclient.o: ..\MQTTClient\mqtt\MQTTFormat.h
+f103_moduel\mqttunsubscribeclient.o: ..\MQTTClient\mqtt\StackTrace.h
+f103_moduel\mqttunsubscribeclient.o: D:\MDK529\ARM\ARMCC\Bin\..\include\stdio.h
+f103_moduel\mqttunsubscribeclient.o: ..\MQTTClient\mqtt\MQTTPacket.h
+f103_moduel\mqttunsubscribeclient.o: D:\MDK529\ARM\ARMCC\Bin\..\include\string.h
